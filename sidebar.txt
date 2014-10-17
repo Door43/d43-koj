@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[koj:home|Door43 (koj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-koj|d43-koj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-koj/archive/master.zip|d43-koj.zip]]
+
+**Recent Changes**
+{{changes>ns = koj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/koj|Ethnologue data]]
+
